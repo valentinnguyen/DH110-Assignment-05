@@ -33,15 +33,15 @@ The low-fidelity prototype is for the user to create their own profile. The prot
 
 ## Testing
 
-#### State 1:
+#### State 1 — Filling out basic info:
 
 ![Page4](https://user-images.githubusercontent.com/81778205/117121961-2c754480-ad4a-11eb-8ef3-1a7f06ec30b7.png)
 
-#### State 2:
+#### State 2 - Selecting generations:
 
 ![Page5](https://user-images.githubusercontent.com/81778205/117121994-3434e900-ad4a-11eb-9b93-9ee066144521.png)
 
-#### State 3:
+#### State 3 - Uploading files & reviewing input:
 
 ![Page2](https://user-images.githubusercontent.com/81778205/117117341-4ad84180-ad44-11eb-8f14-e06724119854.png)
 
