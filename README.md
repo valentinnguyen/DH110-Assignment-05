@@ -1,5 +1,5 @@
 # DH110 Assignment 5: Low-Fidelity Prototype
-####_Valentin Nguyen | Spring 2021 | Dr. Sookie Cho_
+#### _Valentin Nguyen | Spring 2021 | Dr. Sookie Cho_
 
 ## Project Description
 
