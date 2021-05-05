@@ -1,5 +1,5 @@
 # DH110 Assignment 5: Low-Fidelity Prototype
-####_Valentin Nguyen | Spring 2021 | Dr. Sookie Cho
+####_Valentin Nguyen | Spring 2021 | Dr. Sookie Cho_
 
 ## Project Description
 
@@ -33,19 +33,19 @@ The low-fidelity prototype is for the user to create their own profile. The prot
 
 ## Testing
 
-#### State 1 — Filling out basic info:
+### State 1 — Filling out basic info:
 
 ![Page4](https://user-images.githubusercontent.com/81778205/117121961-2c754480-ad4a-11eb-8ef3-1a7f06ec30b7.png)
 
-#### State 2 - Selecting generations:
+### State 2 - Selecting generations:
 
 ![Page5](https://user-images.githubusercontent.com/81778205/117121994-3434e900-ad4a-11eb-9b93-9ee066144521.png)
 
-#### State 3 - Uploading files & reviewing input:
+### State 3 - Uploading files & reviewing input:
 
 ![Page2](https://user-images.githubusercontent.com/81778205/117117341-4ad84180-ad44-11eb-8f14-e06724119854.png)
 
-#### Notes From Testing:
+### Notes From Testing:
 - On the 4th screen, the user was not sure how to answer the question "Where are you from?" since they interpreted the question in multiple ways. They weren't sure if they should say where they were born, where they were raised, or what their background (ethnicity) is. I asked the participant how they would phrase the question if it was supposed to get information on the user's background, and they suggested more specific questions such as "What is your ethnicity?" with a dropdown menu with options, or "Where were you raised?" The question that asks more directly for the user's ethnicity was something that the particpant would consider with caution because people might have multiple ethnicities, and might leave the user confused or unsure how to answer that question.
 - When the participant got to the 5th screen where they had to select which generation they were from, they thought the layout of the generations could have been formatted more cleanly. The participant suggested aligning the boxes in a straight line to make it look more simple, which I might agree with and will consider when making the final wireframes.
 - On the 6th screen, I intended for them to select only one generation that they were interested in meeting more people from, but they selected two instead. I think I would like to make it more explicit that users can select multiple generations they are interested in talking with.
